@@ -18,8 +18,20 @@ Connected to MongoDB<br/>
 Server running on port 3000</p>
 
 ## Features
-- 
-- 
+- <p>Create a New Snippet – POST /api/snippets <br/>
+It accepts a JSON body with the required fields title, language, and code.
+</p>
+- <p>Get All Snippets – GET /api/snippets <br/>
+This endpoint returns all snippets stored in the database. <br/>
+You can filter the results by adding a lang query parameter, such as ?lang=javascript, to only show snippets written in a specific language. <br/>
+You can also limit the number of results using ?limit=5. If no limit is provided, the API returns up to 10 snippets by default. <br/>
+All returned snippets are sorted by their creation date, with the newest ones appearing first.
+</p>
+- <p>Get One Snippet by ID – GET /api/snippets/:id <br/>
+This endpoint retrieves a single snippet using its unique MongoDB ID. <br/>
+If the snippet exists, the server returns it with a 200 OK status. <br/>
+If no snippet is found with that ID, the server responds with a 404 Not Found message.
+</p>
   
 
 ## Reflection
