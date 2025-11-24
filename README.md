@@ -24,16 +24,16 @@ Server running on port 3000</p>
 
 ## Reflection
 <p>Working on this backend API taught me not only how to use Express and Mongoose, but also why these tools are valuable in real-world web development.
-  Setting up the server from scratch helped me understand the core responsibilities of a backend—receiving requests, validating data, interacting with a database, and sending structured responses. <br/>
+  Setting up the server from scratch helped me understand the core responsibilities of a backend—receiving requests, validating data, interacting with a database, and sending structured responses. 
   I also learned how middleware such as cors() and express.json() plays a crucial role in allowing the frontend to communicate smoothly with the backend.</p>
 
-<p>One of the most insightful parts of the project was designing the Mongoose schema. <br/>
-  Defining required fields like title, language, and code, and adding automatic timestamps, helped me understand more how schemas enforce structure in a flexible NoSQL database like MongoDB. <br/>
+<p>One of the most insightful parts of the project was designing the Mongoose schema. 
+  Defining required fields like title, language, and code, and adding automatic timestamps, helped me understand more how schemas enforce structure in a flexible NoSQL database like MongoDB. 
   I also learned the importance of transforming data for consistency—such as converting language names to lowercase for easier filtering.</p>
 
-<p>Building the routes taught me how powerful RESTful design really is. <br/>
-  Implementing GET, POST, and identifier-based queries showed me how backend systems deliver data efficiently and predictably. <br/>
-  The route for filtering snippets using query parameters demonstrated how small features dramatically improve the usability of an API. <br/>
+<p>Building the routes taught me how powerful RESTful design really is. 
+  Implementing GET, POST, and identifier-based queries showed me how backend systems deliver data efficiently and predictably. 
+  The route for filtering snippets using query parameters demonstrated how small features dramatically improve the usability of an API. 
   Overall, this project strengthened my understanding of backend development</p>
 
 ## Video Presentation
