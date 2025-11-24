@@ -18,8 +18,8 @@ Connected to MongoDB<br/>
 Server running on port 3000</p>
 
 ## Features
-- Create a New Snippet – POST /api/snippets
-<p>It accepts a JSON body with the required fields title, language, and code.
+<p>- Create a New Snippet – POST /api/snippets
+It accepts a JSON body with the required fields title, language, and code.
 </p>
 - Get All Snippets – GET /api/snippets
 <p>This endpoint returns all snippets stored in the database. <br/>
