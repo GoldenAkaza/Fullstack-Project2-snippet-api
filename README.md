@@ -53,6 +53,6 @@ If no snippet is found with that ID, the server responds with a 404 Not Found me
 <p>00:00 Introduction and problem</p>
 <p>00:48 Technologies and Features</p>
 <p>01:57 Live demo: POST, GET all, GET by filtered by language and limit, GET by id</p>
-<p>04:25 Conclusion</p>
+<p>04:33 Conclusion</p>
 
 https://go.screenpal.com/watch/cTXZlKnqTal
