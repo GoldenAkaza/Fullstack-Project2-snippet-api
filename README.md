@@ -55,4 +55,4 @@ If no snippet is found with that ID, the server responds with a 404 Not Found me
 <p>01:57 Live demo: POST, GET all, GET by filtered by language and limit, GET by id</p>
 <p>04:25 Conclusion</p>
 
-https://go.screenpal.com/watch/cTXZlBnqTwz
+https://go.screenpal.com/watch/cTXZlKnqTal
