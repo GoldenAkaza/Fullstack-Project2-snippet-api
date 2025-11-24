@@ -27,7 +27,7 @@ Server running on port 3000</p>
   Setting up the server from scratch helped me understand the core responsibilities of a backend—receiving requests, validating data, interacting with a database, and sending structured responses. 
   I also learned how middleware such as cors() and express.json() plays a crucial role in allowing the frontend to communicate smoothly with the backend.</p>
 
-<p>One of the most insightful parts of the project was designing the Mongoose schema. 
+<p>One of the most insightful parts of the project was the Mongoose schema. 
   Defining required fields like title, language, and code, and adding automatic timestamps, helped me understand more how schemas enforce structure in a flexible NoSQL database like MongoDB. 
   I also learned the importance of transforming data for consistency—such as converting language names to lowercase for easier filtering.</p>
 
