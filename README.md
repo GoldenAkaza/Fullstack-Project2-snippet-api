@@ -3,15 +3,15 @@
 ## Live Deployment
 Live: https://fullstack-project2-snippet-api-2.onrender.com // The public URL where the live application can be accessed (from Render).
 
-### Setup Instructions
-<p>Download or Clone the project.</p>
-<p>Install Dependencies.<br/>
+### Setup and Local Run Instructions
+<p>1. Download or Clone the project.</p>
+<p>2. Install Dependencies.<br/>
 npm install express mongoose cors dotenv</p>
-<p>Create a .env file in the project root. <br/>
+<p>3. Create a .env file in the project root. <br/>
 Inside the .env file put:<br/>
 PORT=3000<br/>
 MONGODB_URI=Your own MongoDB Atlas connection string</p>
-<p>Start the server. <br/>
+<p>4. Start the server. <br/>
 node server.js</p>
 <p>You should see:<br/>
 Connected to MongoDB<br/>
