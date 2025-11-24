@@ -23,7 +23,7 @@ Server running on port 3000</p>
   
 
 ## Reflection
-<p>Working on this backend API taught me not only how to use Express and Mongoose, but also why these tools are valuable in real-world web development. <br/>
+<p>Working on this backend API taught me not only how to use Express and Mongoose, but also why these tools are valuable in real-world web development.
   Setting up the server from scratch helped me understand the core responsibilities of a backend—receiving requests, validating data, interacting with a database, and sending structured responses. <br/>
   I also learned how middleware such as cors() and express.json() plays a crucial role in allowing the frontend to communicate smoothly with the backend.</p>
 
